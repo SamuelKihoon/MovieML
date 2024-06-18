@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "first": "John",
+        "last": "Doe",
+        "url": "http://example.com/johndoe",
+        "date": "2024-01-01",
+        "hits": 100,
+        "campaigns": [ "campaign1", "campaign2" ]
+    },
+    {
+        "id": 2,
+        "first": "Jane",
+        "last": "Smith",
+        "url": "http://example.com/janesmith",
+        "date": "2024-02-01",
+        "hits": 150,
+        "campaigns": [ "campaign3", "campaign4" ]
+    },
+    {
+        "id": 3,
+        "first": "Alice",
+        "last": "Johnson",
+        "url": "http://example.com/alicejohnson",
+        "date": "2024-03-01",
+        "hits": 200,
+        "campaigns": [ "campaign5", "campaign6" ]
+    },
+    {
+        "id": 4,
+        "first": "Kim",
+        "last": "HyeongMin",
+        "url": "http://example.com/kim",
+        "date": "2000-05-31",
+        "hits": 150,
+        "campaigns": [ "campaign7", "campaign8" ]
+    },
+    {
+        "id": 5,
+        "first": "Yun",
+        "last": "SeokYeol",
+        "url": "http://example.com/yongsan",
+        "date": "1970-02-01",
+        "hits": 120,
+        "campaigns": [ "campaign9", "campaign10" ]
+    }
+]
