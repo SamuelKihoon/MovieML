@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "first": "John",
+        "last": "Doe",
+        "url": "http://johndoe.com",
+        "date": "2024-01-01",
+        "hits": 150,
+        "campaigns": ["Campaign1", "Campaign2"]
+    },
+    {
+        "id": 2,
+        "first": "Jane",
+        "last": "Smith",
+        "url": "http://janesmith.com",
+        "date": "2024-02-01",
+        "hits": 200,
+        "campaigns": ["Campaign3", "Campaign4"]
+    },
+    {
+        "id": 3,
+        "first": "Alice",
+        "last": "Johnson",
+        "url": "http://alicejohnson.com",
+        "date": "2024-03-01",
+        "hits": 300,
+        "campaigns": ["Campaign5"]
+    }
+]
